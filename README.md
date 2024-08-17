@@ -15,10 +15,6 @@ This project is a fan-made website to the popular anime series, Dragon Ball. The
 
 Explore the website online [here](https://bhavya312007.github.io/Dragon-Ball-Website/).
 
-## Screenshots
-
-![Website Screenshot](https://via.placeholder.com/800x400.png?text=Dragon+Ball+Website)
-
 ## Technologies Used
 
 - HTML
